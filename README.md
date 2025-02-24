@@ -1,4 +1,3 @@
-# MArefiA
 # AirBnB Clone [The Console]
 
 
@@ -250,4 +249,6 @@ Ubuntu 14.04, Emacs, and Python3 language.
 
 ## Authors
 
-Esubalew Million | Github: [Esubalew197](https://github.com/Esubalew197) 
+Jhoan Stiven Zamora Caicedo | Github: [jzamora5](https://github.com/jzamora5) 
+
+Jose David Caro Cantor | Github: [josecaro02](https://github.com/josecaro02)
